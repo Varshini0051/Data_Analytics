@@ -1,2 +1,2 @@
 # Data_Analytics
-Test repo for practice
+Test repository for practice
